@@ -4,8 +4,9 @@ Using [Phue](https://github.com/studioimaginaire/phue) and [whereami](https://gi
 
 ## How to use
 1. Install everything with `pip install -r requirements.txt`
-2. Train `whereami` some rooms. The room name has to be part of the lamp name in Hue. `whereami learn -- workroom`
-3. Press the link button on your Hue bridge and fire up `wherearehue`
+2. Modify the variables in the py files for your needs.
+3. Train `whereami` some rooms. The room name has to be part of the lamp name in Hue. `whereami learn -- workroom`
+4. Press the link button on your Hue bridge and fire up `wherearehue`
 
 Exmaple output:
 ```
